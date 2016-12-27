@@ -1,3 +1,29 @@
+-- SEE BELOW FOR OFFICIAL READ ME--
+I undertake the project to get more insight in kernel developemnt unfortunately, support was unavailable thus i am in slow-mo right now. I started set up  and creatge an image. As for any  Linux-env based project, the issues you will might encounter will be related to the linux flavor you are running. I give some extra troubleshot in my commit message.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Kaneton
 
 The educational snapshot contains everything necessary for students to undertake the kaneton assignments.
